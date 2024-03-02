@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inversity1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+38f260b5fdfd036a92a7c7b66316725aa003dd7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f4dc9e1d8cbd7aa00280831d193435e137725fe")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inversity1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inversity1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -28,9 +28,10 @@
               "RelativeDocumentMoniker": "Inversity1\\Form1.cs",
               "ToolTip": "C:\\Users\\willm\\Documents\\Inversity1\\Inversity1\\Form1.cs",
               "RelativeToolTip": "Inversity1\\Form1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowEIAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-02T12:08:59.385Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
@@ -44,10 +45,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-02T12:05:51.527Z",
               "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

@@ -42,7 +42,7 @@
             textBox1 = new TextBox();
             cardnum = new TextBox();
             expdate = new TextBox();
-            textBox4 = new TextBox();
+            secnum = new TextBox();
             RandomKey1 = new TextBox();
             RandomKey2 = new TextBox();
             RandomKey4 = new TextBox();
@@ -180,12 +180,12 @@
             expdate.Size = new Size(125, 27);
             expdate.TabIndex = 13;
             // 
-            // textBox4
+            // secnum
             // 
-            textBox4.Location = new Point(914, 267);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(125, 27);
-            textBox4.TabIndex = 14;
+            secnum.Location = new Point(914, 267);
+            secnum.Name = "secnum";
+            secnum.Size = new Size(125, 27);
+            secnum.TabIndex = 14;
             // 
             // RandomKey1
             // 
@@ -240,7 +240,7 @@
             Controls.Add(RandomKey4);
             Controls.Add(RandomKey2);
             Controls.Add(RandomKey1);
-            Controls.Add(textBox4);
+            Controls.Add(secnum);
             Controls.Add(expdate);
             Controls.Add(cardnum);
             Controls.Add(textBox1);
@@ -279,7 +279,7 @@
         private TextBox textBox1;
         private TextBox cardnum;
         private TextBox expdate;
-        private TextBox textBox4;
+        private TextBox secnum;
         private TextBox RandomKey1;
         private TextBox RandomKey2;
         private TextBox RandomKey4;
