@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "acF07UV5KQ7nxyQY01BjJkCsmquWXRWgdv/1e6pZGf4OqHsgz8tm9RCa6mN9GuVPQV9lBv9ji1fW8scAjhEMoQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\willm\\Documents\\Inversity1\\Inversity1\\Inversity1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\willm\\.nuget\\packages\\microsoft.web.webview2\\1.0.2365.46\\microsoft.web.webview2.1.0.2365.46.nupkg.sha512"
+  ],
+  "logs": []
+}
